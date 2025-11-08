@@ -1,4 +1,4 @@
 # learning
 learning git 
 <br>
-author - aryan jain 
+author - the aryan jain 
